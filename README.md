@@ -104,7 +104,7 @@ També és important comentar, que per un tema d'estil, s'ha optat per alhora de
 
 ## Informació sobre els tests
 Per poder provar la correcta funcionalitat d'aquest *doble intèrpret* s'ha executat aquest reguitzell d'exemples del llenguatge de programació JSBach:
-* [test-halloBach.jsb](https://github.com/Martaw-code/Practica-LP/blob/main/test-halloBach.jsb)
+* [test-halloBach.jsb](https://github.com/Martaw-code/Practica-LP/test-halloBach.jsb)
 * [test-mcdEuclides.jsb](https://github.com/Martaw-code/Practica-LP/blob/main/test-mcdEuclides.jsb)
 * [test-TorresDeHanoi.jsb](https://github.com/Martaw-code/Practica-LP/blob/main/test-TorresDeHanoi.jsb)
 * [test-Suma.jsb](https://github.com/Martaw-code/Practica-LP/blob/main/test-Suma.jsb)
