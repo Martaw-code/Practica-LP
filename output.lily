@@ -1,0 +1,9 @@
+\version "2.22.1"
+\score {
+    \absolute {
+        \tempo 4 = 120
+        c d e f g a b c' d' e' f' g' a' b' c'' d'' e'' f'' g'' c, d, e, f, g, a, b, c d e f g a b c' d' e' f' g' a'' b'' c''' d''' e''' f''' g''' a''' b''' c'''' b''' a''' g''' f''' e''' d''' a' b' c'' d'' e'' f'' g'' a'' b'' c''' b'' a'' g'' f'' e'' d'' c''' b'' a'' g'' f'' e'' d'' c'' b' a' g' f' c'' b' a' g' f' e' d' c' b a g f e' d' c' b a g d c b c e d c b, a, g, d, c, b, c, 
+    }
+    \layout { }
+    \midi { }
+}
